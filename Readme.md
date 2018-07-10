@@ -20,3 +20,5 @@ We clean, refine, analyse the db, and generate visualisations, to answer a few q
 
 ### **Final Report**
 Refer to `Investigate TMDB Movie Database.html` for the final approved project report.
+
+This was done as a part of Udacity's Machine Learning Foundation nanodegree completed by me at July 2018.
